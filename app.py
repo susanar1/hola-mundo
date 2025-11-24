@@ -3,4 +3,4 @@ Script simple que imprime Hola Mundo
 """
  
 if __name__ == "__main__":
-    print("Hola MUNDO ando por aca otra vez")
+    print("Hola MUNDO")
